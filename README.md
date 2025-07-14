@@ -1,2 +1,2 @@
 # ig-analytics-api
-Irongate analytical data management service 
+Irongate analytical data management service
