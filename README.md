@@ -1,2 +1,2 @@
-# igt-analytics-api
+# ig-analytics-api
 Irongate analytical data management service
